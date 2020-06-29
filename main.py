@@ -24,6 +24,4 @@ if __name__ == '__main__':
     # calculate the similarity bases on USE
     # USE.similarityWithUSE(df['preprocessedText'], df['country'])
 
-    # calculate the frequencies of specific terms in the documents
-    # frequencies.calculateFrequencies(myDictStem)
 
